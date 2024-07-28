@@ -2,3 +2,4 @@
 .vitepress/cache
 
 .vitepress/config/.vitepress
+node_modules
